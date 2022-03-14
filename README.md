@@ -1,2 +1,2 @@
 # jammming
-A React project developed by Codecademy, implementing the Spotify API
+A React project implementing the Spotify API
